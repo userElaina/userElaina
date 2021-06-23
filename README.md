@@ -53,6 +53,8 @@
 [A big json has colors' names in English and Chinese](https://github.com/userElaina/json-colorsname)
 [![colorsname](https://img.shields.io/pypi/v/colorsname.svg?label=colorsname)](https://pypi.org/project/colorsname)
 
+[Sweet syntax sugar](https://github.com/userElaina/sugar)
+[![userelaina](https://img.shields.io/pypi/v/userelaina.svg?label=userelaina)](https://pypi.org/project/userelaina)
 
 ![qwq](https://github-readme-stats.vercel.app/api?username=userElaina)
 
