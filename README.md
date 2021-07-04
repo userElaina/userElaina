@@ -4,7 +4,7 @@
 - [🏫](https://en.wikipedia.org/wiki/Computer_science) Major: CS.
 - [🎮](https://zh.moegirl.org.cn/%E7%99%BE%E5%90%88(%E8%90%8C%E5%B1%9E%E6%80%A7)#) Hobby: Games, Music, ACGN, and Yuri. 
 - [🤡](https://zh.moegirl.org.cn/zh-tw/%E6%B2%99%E8%80%B6(%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85)#) Everyone laughed at Saya, everyone was Saya.
-- [📖](https://www.zhihu.com/equation?tex=%E6%AD%A4%E5%A4%84%E7%95%99%E7%BB%99%E6%88%91%E5%8D%9A%E5%AE%A2(%E6%9C%AA%E5%AE%8C%E6%88%90){\rm%20relax}%E9%A1%B5%20Q%5Comega%20Q) Live te see the beautiful things in the world.
+- [📖](https://www.zhihu.com/equation?tex=%E6%AD%A4%E5%A4%84%E7%95%99%E7%BB%99%E6%88%91%E5%8D%9A%E5%AE%A2(%E6%9C%AA%E5%AE%8C%E6%88%90)%7B%5Crm%20relax%7D%E9%A1%B5%20Q%5Comega%20Q) Live te see the beautiful things in the world.
 - 
 - [🔭](https://telegra.ph/%E8%BA%BA%E5%B9%B3%E5%8D%B3%E6%98%AF%E6%AD%A3%E4%B9%89-06-23) I’m currently working on ~~touching fish~~.
 - [🌱](https://github.com/userElaina/java-network-disk) I’m currently learning **~~Jvav~~**.
