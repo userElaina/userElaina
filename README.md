@@ -1,6 +1,6 @@
-### Hi ~ I'm userElaina. 👋
+### Hi ~ I'm userElaina. Ich⭐Liebe⭐Dich
 
-- [⭐](https://github.com/userElaina) Target: Code sth interesting.
+- [🌸](https://github.com/userElaina) Target: Code sth interesting.
 - [🏫](https://en.wikipedia.org/wiki/Computer_science) Major: CS.
 - [🎮](https://zh.moegirl.org.cn/%E7%99%BE%E5%90%88(%E8%90%8C%E5%B1%9E%E6%80%A7)#) Hobby: Games, Music, ACGN, and Yuri. 
 - [🤡](https://zh.moegirl.org.cn/zh-tw/%E6%B2%99%E8%80%B6(%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85)#) Everyone laughed at Saya, everyone was Saya.
