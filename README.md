@@ -14,7 +14,7 @@
 
 ##
 
-#### 快捷方式.ink
+#### 快捷方式.LNK
 
 [百度网盘秒传链接生成器](https://github.com/userElaina/panbaidu-miao-chuan)
 [快速下载](https://github.com/userElaina/panbaidu-miao-chuan/releases/download/1.1.0/miaochuan.exe)
