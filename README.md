@@ -7,14 +7,14 @@
 - [📖](https://www.zhihu.com/equation?tex=%E6%AD%A4%E5%A4%84%E7%95%99%E7%BB%99%E6%88%91%E5%8D%9A%E5%AE%A2(%E6%9C%AA%E5%AE%8C%E6%88%90)%7B%5Crm%20relax%7D%E9%A1%B5%20Q%5Comega%20Q) Live te see the beautiful things in the world.
 - 
 - [🔭](https://telegra.ph/%E8%BA%BA%E5%B9%B3%E5%8D%B3%E6%98%AF%E6%AD%A3%E4%B9%89-06-23) I’m currently working on ~~touching fish~~.
-- [🌱](https://github.com/userElaina/java-network-disk) I’m currently learning **~~Jvav~~**.
+- [🌱](https://github.com/userElaina/jlu-computer-graphics) I’m currently ~~surviving in~~ learning computer graphics and network.
 - [💬](https://github.com/userelaina/userelaina/issues) To ask me about anything.
 - [📫](#to-reach-me) To reach me.
 - [🏆](#to-reward-me) ~~To reward me.~~
 
 ##
 
-#### 快捷方式.LNK
+#### 零门槛工具
 
 [百度网盘秒传链接生成器](https://github.com/userElaina/panbaidu-miao-chuan)
 [快速下载](https://github.com/userElaina/panbaidu-miao-chuan/releases/download/1.1.0/miaochuan.exe)
@@ -64,7 +64,7 @@
 
 ##### Programming Languages
 
-`Python` `C++` `C` `Java`
+`Python` `C++` `C`
 
 ##### Editors
 
@@ -76,11 +76,19 @@
 
 Telegram: [@userElaina](https://t.me/userelaina)
 
+Telegram Channel: [@cyberElaina](https://t.me/cyberElaina)
+
 Gmail: userElaina@Gmail.com
 
 QQ Group: 630510394
 
 Steam Friend Code: [1023110402](https://steamcommunity.com/id/userElaina)
+
+SMS: +1 ‪(513) 449-1176
+
+#### To reward me
+
+https://paypal.me/mo19260817
 
 ##
 
