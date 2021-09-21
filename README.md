@@ -1,4 +1,4 @@
-### Hi ~ I'm userElaina. Ich⭐Liebe⭐Dich
+## Hi ~ I'm userElaina. Ich⭐Liebe⭐Dich
 
 - [🌸](https://github.com/userElaina) Target: Code sth interesting.
 - [🏫](https://github.com/userElaina/Outlast-JLU-DLC) Major: CS.
@@ -12,9 +12,9 @@
 - [📫](#to-reach-me) To reach me.
 - [🏆](#to-reward-me) ~~To reward me.~~
 
-### Repositories
+## Repositories
 
-#### 零门槛
+### 零门槛
 
 [双德乡停水停电文理学院逃生指南](https://github.com/userElaina/Outlast-JLU-DLC)
 
@@ -26,13 +26,13 @@
 
 [一些工具](https://github.com/userElaina/small-tools)
 
-#### 令人放松的
+### 令人放松的
 
 [Dream](https://github.com/userElaina/dream)
 
 [world.execute(me);](https://github.com/userElaina/world-execute-me)
 
-#### QwQ Series
+### QwQ Series
 
 qwq1: [Homework for Haffman. ](https://github.com/userElaina/naive-Huffman)
 只支持只有ascii字符的文件.
@@ -46,13 +46,13 @@ qwq3: [Defend against check the water meter. ](https://github.com/userElaina/one
 qwq4: [Split volume to bmp. ](https://github.com/userElaina/big-file-2-small-bmp)
 文件分卷存储为位图.暂时没想好要怎么加密.或许可以把3和4结合一下,这样也就可以在"对方"面前解释为什么文件那么大了.
 
-#### Command Line Tools
+### Command Line Tools
 
 [music player](https://github.com/userElaina/console-music-player)
 
 [pixiv creeper](https://github.com/userElaina/pixiv-creeper-2)
 
-#### Python modules
+### Python modules
 
 [Multithreaded download tools](https://github.com/userElaina/downs)
 [![downs](https://img.shields.io/pypi/v/downs.svg?label=downs)](https://pypi.org/project/downs/)
@@ -66,14 +66,14 @@ qwq4: [Split volume to bmp. ](https://github.com/userElaina/big-file-2-small-bmp
 [Sweet syntax sugar](https://github.com/userElaina/sugar)
 [![userelaina](https://img.shields.io/pypi/v/userelaina.svg?label=userelaina)](https://pypi.org/project/userelaina)
 
-#### Statistics
+### Statistics
 
 ![stats](https://github-readme-stats.vercel.app/api?username=userElaina)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=userElaina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 ![count](https://count.getloli.com/get/@userElaina?theme=gelbooru)
 
-#### Platform and Tools
+### Platform and Tools
 
 [![](https://img.shields.io/badge/Windows-10-0078d6?style=flat-square&logo=windows)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Ubuntu-20.04-e95420?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
@@ -94,7 +94,7 @@ qwq4: [Split volume to bmp. ](https://github.com/userElaina/big-file-2-small-bmp
 [![](https://img.shields.io/badge/Java-16-007396?style=flat-square&logo=java)](https://www.java.com/en/)
 [![](https://img.shields.io/badge/Html-5-e34f26?style=flat-square&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
 
-#### To reach me
+### To reach me
 
 Telegram: [@userElaina](https://t.me/userelaina) 
 Telegram Channel: [@cyberElaina](https://t.me/cyberElaina)
@@ -108,8 +108,8 @@ Steam Friend Code: [1023110402](https://steamcommunity.com/id/userElaina)
 SMS: +852 5745-4764
 SMS: +1 ‪(513) 449-1176
 
-#### To reward me
+### To reward me
 
 https://paypal.me/mo19260817
 
-### Thank you for meeting me.
+## Thank you for meeting me.
