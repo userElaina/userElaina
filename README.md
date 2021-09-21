@@ -98,7 +98,7 @@ Telegram Channel: [@cyberElaina](https://t.me/cyberElaina)
 
 Gmail: userElaina@Gmail.com
 
-QQ Group: 630510394
+QQ Group: `630510394`
 
 Steam Friend Code: [1023110402](https://steamcommunity.com/id/userElaina)
 
