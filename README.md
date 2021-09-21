@@ -46,34 +46,31 @@ qwq3: [Defend against check the water meter. ](https://github.com/userElaina/one
 qwq4: [Split volume to bmp. ](https://github.com/userElaina/big-file-2-small-bmp)
 文件分卷存储为位图.暂时没想好要怎么加密.或许可以把3和4结合一下,这样也就可以在"对方"面前解释为什么文件那么大了.
 
-### Command Line Tools
-
-[music player](https://github.com/userElaina/console-music-player)
-
-[pixiv creeper](https://github.com/userElaina/pixiv-creeper-2)
-
 ### Python modules
 
 [Multithreaded download tools](https://github.com/userElaina/downs)
-[![downs](https://img.shields.io/pypi/v/downs.svg?label=downs)](https://pypi.org/project/downs/)
+[![downs](https://img.shields.io/pypi/v/downs.svg?style=flat-square&logo=pypi&label=downs)](https://pypi.org/project/downs/)
 
 [Quickly build programs with GUI](https://github.com/userElaina/fastgui)
-[![fastgui](https://img.shields.io/pypi/v/fastgui.svg?label=fastgui)](https://pypi.org/project/fastgui/)
+[![fastgui](https://img.shields.io/pypi/v/fastgui.svg?style=flat-square&logo=pypi&label=fastgui)](https://pypi.org/project/fastgui/)
 
 [Colors' names in Chinese, English and Japanese](https://github.com/userElaina/json-colorsname)
-[![colorsname](https://img.shields.io/pypi/v/colorsname.svg?label=colorsname)](https://pypi.org/project/colorsname)
+[![colorsname](https://img.shields.io/pypi/v/colorsname.svg?style=flat-square&logo=pypi&label=colorsname)](https://pypi.org/project/colorsname)
 
 [Sweet syntax sugar](https://github.com/userElaina/sugar)
-[![userelaina](https://img.shields.io/pypi/v/userelaina.svg?label=userelaina)](https://pypi.org/project/userelaina)
+[![userelaina](https://img.shields.io/pypi/v/userelaina.svg?style=flat-square&logo=pypi&label=userelaina)](https://pypi.org/project/userelaina)
 
-### Statistics
+### TO DO
 
-![stats](https://github-readme-stats.vercel.app/api?username=userElaina)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=userElaina&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+[Similar-Images-Filter](https://github.com/userElaina/Similar-Images-Filter-PHA)
+[Computer-Graphics](https://github.com/userElaina/computer-graphics)
+[7z](https://github.com/userElaina/computer-graphics)
+[ls](https://github.com/userElaina/computer-graphics)
+[muz](https://github.com/userElaina/console-music-player)
+[pixiv-creeper](https://github.com/userElaina/pixiv-creeper-2)
+[file-sync](https://github.com/userElaina/file-sync)
 
-![count](https://count.getloli.com/get/@userElaina?theme=gelbooru)
-
-### Platform and Tools
+## Platform and Tools
 
 [![](https://img.shields.io/badge/Windows-10-0078d6?style=flat-square&logo=windows)](https://www.microsoft.com/windows/get-windows-10)
 [![](https://img.shields.io/badge/Ubuntu-20.04-e95420?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
@@ -94,7 +91,7 @@ qwq4: [Split volume to bmp. ](https://github.com/userElaina/big-file-2-small-bmp
 [![](https://img.shields.io/badge/Java-16-007396?style=flat-square&logo=java)](https://www.java.com/en/)
 [![](https://img.shields.io/badge/Html-5-e34f26?style=flat-square&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
 
-### To reach me
+## To reach me
 
 Telegram: [@userElaina](https://t.me/userelaina) 
 Telegram Channel: [@cyberElaina](https://t.me/cyberElaina)
@@ -105,11 +102,15 @@ QQ Group: 630510394
 
 Steam Friend Code: [1023110402](https://steamcommunity.com/id/userElaina)
 
-SMS: +852 5745-4764
-SMS: +1 ‪(513) 449-1176
+SMS: `+852 5745-4764` `+1 ‪(513) 449-1176`
 
-### To reward me
+## To reward me
 
 https://paypal.me/mo19260817
 
-## Thank you for meeting me.
+## Thank you for meeting me 😘
+
+![count](https://count.getloli.com/get/@userElaina?theme=gelbooru)
+
+![stats](https://github-readme-stats.vercel.app/api?username=userElaina)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=userElaina&layout=compact)
