@@ -1,14 +1,14 @@
 ## Hi ~ I'm userElaina. Ich⭐Liebe⭐Dich
 
-- [🌸](https://github.com/userElaina) Target: Code sth interesting.
-- [🏫](https://github.com/userElaina/Outlast-JLU-DLC) Major: CS.
 - [🎮](https://zh.moegirl.org.cn/%E7%99%BE%E5%90%88(%E8%90%8C%E5%B1%9E%E6%80%A7)#) Hobby: Games, Music, ACGN, and Yuri. 
+- [🌸](https://github.com/userElaina) Code sth interesting.
 - [🤡](https://zh.moegirl.org.cn/zh-tw/%E6%B2%99%E8%80%B6(%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85)#) Everyone laughed at Saya, everyone was Saya.
 - [📖](https://www.zhihu.com/equation?tex=%E6%AD%A4%E5%A4%84%E7%95%99%E7%BB%99%E6%88%91%E5%8D%9A%E5%AE%A2(%E6%9C%AA%E5%AE%8C%E6%88%90)%7B%5Crm%20relax%7D%E9%A1%B5%20Q%5Comega%20Q) Live te see the beautiful things in the world.
-- 
-- [🔭](https://telegra.ph/%E8%BA%BA%E5%B9%B3%E5%8D%B3%E6%98%AF%E6%AD%A3%E4%B9%89-06-23) I’m currently working on ~~touching fish~~.
-- [🌱](https://github.com/userElaina/jlu-computer-graphics) I’m currently ~~surviving in~~ learning computer graphics and network.
 - [💬](https://github.com/userelaina/userelaina/issues) To ask me about anything.
+- 
+- [🏫](https://github.com/userElaina/Outlast-JLU-DLC) JLU CS BSc.
+- [🌱](https://github.com/userElaina/jlu-computer-graphics) I’m ~~surviving in~~ learning computer graphics and network.
+- [🔭](https://telegra.ph/%E8%BA%BA%E5%B9%B3%E5%8D%B3%E6%98%AF%E6%AD%A3%E4%B9%89-06-23) I’m currently working on ~~touching fish~~.
 - [📫](#to-reach-me) To reach me.
 - [🏆](#to-reward-me) ~~To reward me.~~
 
@@ -48,8 +48,8 @@ qwq4: [Split volume to bmp. ](https://github.com/userElaina/big-file-2-small-bmp
 
 ### Python modules
 
-[Multithreaded download tools](https://github.com/userElaina/downs)
-[![downs](https://img.shields.io/pypi/v/downs.svg?style=flat-square&logo=pypi&label=downs)](https://pypi.org/project/downs/)
+[Console Music Player](https://github.com/userElaina/console-music-player)
+[![muz](https://img.shields.io/pypi/v/muz.svg?style=flat-square&logo=pypi&label=muz)](https://pypi.org/project/muz/)
 
 [Quickly build programs with GUI](https://github.com/userElaina/fastgui)
 [![fastgui](https://img.shields.io/pypi/v/fastgui.svg?style=flat-square&logo=pypi&label=fastgui)](https://pypi.org/project/fastgui/)
@@ -66,9 +66,7 @@ qwq4: [Split volume to bmp. ](https://github.com/userElaina/big-file-2-small-bmp
 [Computer-Graphics](https://github.com/userElaina/computer-graphics)
 [7z](https://github.com/userElaina/computer-graphics)
 [ls](https://github.com/userElaina/computer-graphics)
-[muz](https://github.com/userElaina/console-music-player)
 [pixiv-creeper](https://github.com/userElaina/pixiv-creeper-2)
-[file-sync](https://github.com/userElaina/file-sync)
 
 ## Platform and Tools
 
@@ -81,7 +79,7 @@ qwq4: [Split volume to bmp. ](https://github.com/userElaina/big-file-2-small-bmp
 [![](https://img.shields.io/badge/VirtualBox-6.1-183a61?style=flat-square&logo=virtualbox)](https://www.virtualbox.org/)
 [![](https://img.shields.io/badge/Visual%20Studio%20Code-1.60-007acc?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/LLVM-12.0.1-262d3a?style=flat-square&logo=llvm)](https://llvm.org/)
-[![](https://img.shields.io/badge/FFmpeg-4.2.3-007808?style=flat-square&logo=ffmpeg)](https://www.ffmpeg.org/)
+[![](https://img.shields.io/badge/FFmpeg-4.4-007808?style=flat-square&logo=ffmpeg)](https://www.ffmpeg.org/)
 [![](https://img.shields.io/badge/OBS-27-302e31?style=flat-square&logo=obs-studio)](https://obsproject.com/)
 [![](https://img.shields.io/badge/Office-18-d83b01?style=flat-square&logo=microsoft-office)](https://www.office.com/)
 
@@ -102,6 +100,8 @@ QQ Group: `630510394`
 
 Steam Friend Code: [1023110402](https://steamcommunity.com/id/userElaina)
 
+Honkai Impact 3rd UID: `13482283`
+
 SMS: `+852 5745-4764` `+1 ‪(513) 449-1176`
 
 ## To reward me
@@ -110,7 +110,7 @@ https://paypal.me/mo19260817
 
 ## Thank you for meeting me 😘
 
-![count](https://count.getloli.com/get/@userElaina?theme=gelbooru)
+![Count](https://count.getloli.com/get/@userElaina?theme=gelbooru)
 
-![stats](https://github-readme-stats.vercel.app/api?username=userElaina)
+![Stats](https://github-readme-stats.vercel.app/api?username=userElaina&show_icons=true&count_private=true&icon_color=F080C0)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=userElaina&layout=compact)
