@@ -60,13 +60,18 @@ qwq4: [Split volume to bmp. ](https://github.com/userElaina/big-file-2-small-bmp
 [Sweet syntax sugar](https://github.com/userElaina/sugar)
 [![userelaina](https://img.shields.io/pypi/v/userelaina.svg?style=flat-square&logo=pypi&label=userelaina)](https://pypi.org/project/userelaina)
 
-### TO DO
+### Doing
 
 [Similar-Images-Filter](https://github.com/userElaina/Similar-Images-Filter-PHA)
 [Computer-Graphics](https://github.com/userElaina/computer-graphics)
 [7z](https://github.com/userElaina/computer-graphics)
 [ls](https://github.com/userElaina/computer-graphics)
+[color-card](https://github.com/userElaina/color-card)
+
+### To Do
+
 [pixiv-creeper](https://github.com/userElaina/pixiv-creeper-2)
+[ping-pong](https://github.com/userElaina/ping-pong)
 
 ## Platform and Tools
 
@@ -86,8 +91,8 @@ qwq4: [Split volume to bmp. ](https://github.com/userElaina/big-file-2-small-bmp
 [![](https://img.shields.io/badge/Python-3.7-3776ab?style=flat-square&logo=python)](https://www.python.org/)
 [![](https://img.shields.io/badge/C-98-a8b9cc?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![](https://img.shields.io/badge/C++-11-00599c?style=flat-square&logo=c%2B%2B)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![](https://img.shields.io/badge/Java-16-007396?style=flat-square&logo=java)](https://www.java.com/en/)
 [![](https://img.shields.io/badge/Html-5-e34f26?style=flat-square&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
+[![](https://img.shields.io/badge/Java-16-007396?style=flat-square&logo=java)](https://www.java.com/en/)
 
 ## To reach me
 
@@ -113,4 +118,4 @@ https://paypal.me/mo19260817
 ![Count](https://count.getloli.com/get/@userElaina?theme=gelbooru)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=userElaina&show_icons=true&count_private=true&icon_color=F080C0)
-![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=userElaina&layout=compact)
+![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=userElaina&layout=compact&langs_count=8)
