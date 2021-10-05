@@ -113,4 +113,4 @@ https://paypal.me/mo19260817
 ![Count](https://count.getloli.com/get/@userElaina?theme=gelbooru)
 
 ![Stats](https://github-readme-stats.vercel.app/api?username=userElaina&show_icons=true&count_private=true&icon_color=F080C0)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=userElaina&layout=compact)
+![Top_Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=userElaina&layout=compact)
