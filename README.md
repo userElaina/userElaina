@@ -101,11 +101,7 @@ Telegram Channel: [@cyberElaina](https://t.me/cyberElaina)
 
 Gmail: userElaina@Gmail.com
 
-QQ Group: `630510394`
-
 Steam Friend Code: [1023110402](https://steamcommunity.com/id/userElaina)
-
-Honkai Impact 3rd UID: `13482283`
 
 SMS: `+852 5745-4764` `+1 ‪(513) 449-1176`
 
