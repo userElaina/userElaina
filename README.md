@@ -29,7 +29,6 @@
 ### relax
 
 [Dream](https://github.com/userElaina/dream)
-
 [world.execute(me);](https://github.com/userElaina/world-execute-me)
 
 ### QwQ Series
@@ -88,8 +87,6 @@ qwq4: [Split volume to bmp. ](https://github.com/userElaina/big-file-2-small-bmp
 [![](https://img.shields.io/badge/Python-3.10-3776ab?style=flat-square&logo=python)](https://www.python.org/)
 [![](https://img.shields.io/badge/C-98-a8b9cc?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![](https://img.shields.io/badge/C++-11-00599c?style=flat-square&logo=c%2B%2B)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![](https://img.shields.io/badge/Html-5-e34f26?style=flat-square&logo=html5)](https://en.wikipedia.org/wiki/HTML5)
-[![](https://img.shields.io/badge/Java-17-007396?style=flat-square&logo=java)](https://www.java.com/en/)
 
 ## To reach me
 
