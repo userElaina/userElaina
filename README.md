@@ -93,7 +93,7 @@ qwq4: [Split volume to bmp. ](https://github.com/userElaina/big-file-2-small-bmp
 Telegram: [@userElaina](https://t.me/userelaina) 
 Telegram Channel: [@cyberElaina](https://t.me/cyberElaina)
 
-Email: userElaina@Gmail.com
+Email: userElaina@Gmail.com userElaina@pm.me
 
 Steam Friend Code: [1023110402](https://steamcommunity.com/id/userElaina)
 
