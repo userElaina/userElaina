@@ -1,12 +1,12 @@
-## Hi ~ I'm userElaina. Ich⭐Liebe⭐Dich
+## Hi ~ I'm userElaina.
 
 - [🎮](https://zh.moegirl.org.cn/%E7%99%BE%E5%90%88(%E8%90%8C%E5%B1%9E%E6%80%A7)#) Hobby: Games, Music, ACGN, and Yuri. 
 - [🌸](https://github.com/userElaina) Code sth interesting.
 - [🤡](https://zh.moegirl.org.cn/zh-tw/%E6%B2%99%E8%80%B6(%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85)#) Everyone laughed at Saya, everyone was Saya.
 - [💬](https://github.com/userelaina/userelaina/issues) To ask me about anything.
 - 
-- [🌱](https://github.com/userElaina/A-Top-Down-Approach) I’m ~~surviving in~~ learning Computer Networking.
-- [🔭](https://telegra.ph/%E8%BA%BA%E5%B9%B3%E5%8D%B3%E6%98%AF%E6%AD%A3%E4%B9%89-06-23) I’m currently working on ~~touching fish~~.
+- [🌱](https://github.com/userElaina/oh-my-tg-cache) I’m ~~surviving in~~ working on Graduation Project.
+- [🔭](https://telegra.ph/%E8%BA%BA%E5%B9%B3%E5%8D%B3%E6%98%AF%E6%AD%A3%E4%B9%89-06-23) I’m currently ~~touching fish~~.
 - [📫](#to-reach-me) To reach me.
 - [🏆](#to-reward-me) ~~To reward me.~~
 
@@ -16,6 +16,10 @@
 
 [双德乡停水停电学院生存指北](https://github.com/userElaina/Outlast-JLU-DLC)
 
+[将国际网站伪装成中国网站](https://github.com/userElaina/this-is-the-China-website)
+
+[OpenCV-MinGW-W64-Build](https://github.com/userElaina/OpenCV-MinGW-W64-Build)
+
 [视频转字符画](https://github.com/userElaina/Bad-Apple)
 [提取色卡/提取线稿/勾线/调色/低级水印筛查](https://github.com/userElaina/color-card)
 
@@ -24,77 +28,86 @@
 
 ### QwQ Series
 
-qwq1: [Homework for Haffman. ](https://github.com/userElaina/naive-Huffman)
+1. [Homework for Haffman. ](https://github.com/userElaina/naive-Huffman)
 只支持只有ascii字符的文件.
 
-qwq2: [Prefix xor. ](https://github.com/userElaina/naive-confuse)
+2. [Prefix xor. ](https://github.com/userElaina/naive-confuse)
 只是简单的混淆(异或前缀和).
 
-qwq3: [Defend against check the water meter. ](https://github.com/userElaina/one-file-with-many-password)
+3. [Defend against check the water meter. ](https://github.com/userElaina/one-file-with-many-password)
 多文件多密码打包成一个文件,即变成单文件多密码.给一个密码,只能提取对应文件.同时你可以生成多个只包括部分真密码的密码序列,使得就算有人拿枪顶着你的脑袋让你解码,你也可以隐藏想要隐藏的文件.
 
-qwq4: [Split volume to bmp. ](https://github.com/userElaina/big-file-2-small-bmp)
+4. [Split volume to bmp. ](https://github.com/userElaina/big-file-2-small-bmp)
 文件分卷存储为位图.暂时没想好要怎么加密.或许可以把3和4结合一下,这样也就可以在"对方"面前解释为什么文件那么大了.
 
+5. [M of N keys](https://github.com/userElaina/m-of-n-keys)
+一个 key /文件生成 n 个 keyfile, 获取其中的任意 m 个即可还原 key /解密原文件.
+
 ### Python modules
-
-[Console Music Player](https://github.com/userElaina/console-music-player)
-[![muz](https://img.shields.io/pypi/v/muz.svg?style=flat-square&logo=pypi&label=muz)](https://pypi.org/project/muz/)
-
-[Chinese fake identity](https://github.com/userElaina/fAKe-Chinese)
-[![fakechinese](https://img.shields.io/pypi/v/fakechinese.svg?style=flat-square&logo=pypi&label=fakechinese)](https://pypi.org/project/fakechinese)
 
 [Colors' names in Chinese, English and Japanese](https://github.com/userElaina/json-colorsname)
 [![colorsname](https://img.shields.io/pypi/v/colorsname.svg?style=flat-square&logo=pypi&label=colorsname)](https://pypi.org/project/colorsname)
 
-[Sweet syntax sugar](https://github.com/userElaina/sugar)
-[![userelaina](https://img.shields.io/pypi/v/userelaina.svg?style=flat-square&logo=pypi&label=userelaina)](https://pypi.org/project/userelaina)
+[Shell Like CUI](https://github.com/userElaina/shell-like-cui)
+[![shelllikecui](https://img.shields.io/pypi/v/shelllikecui.svg?style=flat-square&logo=pypi&label=shelllikecui)](https://pypi.org/project/shelllikecui)
 
-### Doing
+[Bad Apple Python Module](https://github.com/userElaina/Bad-Apple-Python-Module)
+[![badapple](https://img.shields.io/pypi/v/badapple.svg?style=flat-square&logo=pypi&label=badapple)](https://pypi.org/project/badapple)
 
-[pixiv分布式爬虫](https://github.com/userElaina/pixiv-distributed-crawler)
-[Similar-Images-Filter](https://github.com/userElaina/Similar-Images-Filter-PHA)
-[Console-Music-Player](https://github.com/userElaina/console-music-player)
+<!-- [Console Music Player](https://github.com/userElaina/console-music-player) -->
+<!-- [![muz](https://img.shields.io/pypi/v/muz.svg?style=flat-square&logo=pypi&label=muz)](https://pypi.org/project/muz/) -->
+
+<!-- [Chinese fake identity](https://github.com/userElaina/fAKe-Chinese) -->
+<!-- [![fakechinese](https://img.shields.io/pypi/v/fakechinese.svg?style=flat-square&logo=pypi&label=fakechinese)](https://pypi.org/project/fakechinese) -->
+
+<!-- [Sweet syntax sugar](https://github.com/userElaina/sugar) -->
+<!-- [![userelaina](https://img.shields.io/pypi/v/userelaina.svg?style=flat-square&logo=pypi&label=userelaina)](https://pypi.org/project/userelaina) -->
 
 ### To Do
 
+[pixiv 分布式爬虫](https://github.com/userElaina/pixiv-distributed-crawler)
 [ping-pong](https://github.com/userElaina/ping-pong)
+[Console-Music-Player](https://github.com/userElaina/console-music-player)
 
 ## Platform and Tools
 
+[![](https://img.shields.io/badge/Manjaro-*-35bf5c?style=flat-square&logo=manjaro)](https://manjaro.org/)
 [![](https://img.shields.io/badge/Windows-10-0078d6?style=flat-square&logo=windows)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Arch%20Linux-*-1793d1?style=flat-square&logo=arch-linux)](https://archlinux.org/)
 [![](https://img.shields.io/badge/Ubuntu-22.04-e95420?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
 [![](https://img.shields.io/badge/Debian-11-a81d33?style=flat-square&logo=debian)](https://www.debian.org/)
-[![](https://img.shields.io/badge/Manjaro-KDE-35bf5c?style=flat-square&logo=manjaro)](https://manjaro.org/)
+[![](https://img.shields.io/badge/Proxmox%20VE-7.4-e57000?style=flat-square&logo=proxmox)](https://www.proxmox.com/)
 
-[![](https://img.shields.io/badge/VirtualBox--183a61?style=flat-square&logo=virtualbox)](https://www.virtualbox.org/)
-[![](https://img.shields.io/badge/VS%20Code--007acc?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/LLVM--262d3a?style=flat-square&logo=llvm)](https://llvm.org/)
+[![](https://img.shields.io/badge/VirtualBox-*-183a61?style=flat-square&logo=virtualbox)](https://www.virtualbox.org/)
+[![](https://img.shields.io/badge/VS%20Code-*-007acc?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Visual%20Studio-*-5c2d91?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/)
 [![](https://img.shields.io/badge/OBS--302e31?style=flat-square&logo=obs-studio)](https://obsproject.com/)
 [![](https://img.shields.io/badge/FFmpeg--007808?style=flat-square&logo=ffmpeg)](https://ffmpeg.org/)
+[![](https://img.shields.io/badge/OpenCV--5C3EE8?style=flat-square&logo=opencv)](https://opencv.org/)
 
-[![](https://img.shields.io/badge/Python-3.10-3776ab?style=flat-square&logo=python)](https://www.python.org/)
-[![](https://img.shields.io/badge/C-98-a8b9cc?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![](https://img.shields.io/badge/C++-11-00599c?style=flat-square&logo=c%2B%2B)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![](https://img.shields.io/badge/Python-3.11-3776ab?style=flat-square&logo=python)](https://www.python.org/)
+[![](https://img.shields.io/badge/C-11-a8b9cc?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![](https://img.shields.io/badge/C++-2a-00599c?style=flat-square&logo=c%2B%2B)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![](https://img.shields.io/badge/Go-1.19-00add8?style=flat-square&logo=go)](https://go.dev/)
 [![](https://img.shields.io/badge/Java-17-ffffff?style=flat-square&logo=oracle)](https://www.java.com/)
 [![](https://img.shields.io/badge/Lua-5.1-2c2d72?style=flat-square&logo=lua)](https://www.lua.org/)
-[![](https://img.shields.io/badge/Unity-2021-ffffff?style=flat-square&logo=unity)](https://unity.com/)
+[![](https://img.shields.io/badge/LaTeX-*-008080?style=flat-square&logo=latex)](https://www.latex-project.org/)
+
 
 ## To reach me
 
 Telegram: [@userElaina](https://t.me/userelaina) 
 Telegram Channel: [@cyberElaina](https://t.me/cyberElaina)
 
-Email: userElaina@Gmail.com userElaina@pm.me
+Email: userElaina@gmail.com userElaina@pm.me
 
 Steam Friend Code: [1023110402](https://steamcommunity.com/id/userElaina)
 
-SMS: `+852 5745-4764` `+1 (513) 449-1176`
+SMS: `+1 (513) 449-1176`
 
 ## To reward me
 
-https://paypal.me/mo19260817
+<!-- https://paypal.me/mo19260817 -->
 
 ## Thank you for meeting me 😘
 
