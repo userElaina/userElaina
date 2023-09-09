@@ -1,11 +1,11 @@
 ## Hi ~ I'm userElaina.
 
-- [🎮](https://zh.moegirl.org.cn/%E7%99%BE%E5%90%88(%E8%90%8C%E5%B1%9E%E6%80%A7)#) Hobby: Games, Music, ACGN, and Yuri. 
+- [🎮](https://zh.moegirl.org.cn/%E7%99%BE%E5%90%88(%E8%90%8C%E5%B1%9E%E6%80%A7)#) Hobby: Music and ACGN.
 - [🌸](https://github.com/userElaina) Code sth interesting.
 - [🤡](https://zh.moegirl.org.cn/zh-tw/%E6%B2%99%E8%80%B6(%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85)#) Everyone laughed at Saya, everyone was Saya.
 - [💬](https://github.com/userelaina/userelaina/issues) To ask me about anything.
 - 
-- [🌱](https://github.com/userElaina/oh-my-tg-cache) I’m ~~surviving in~~ working on Graduation Project.
+- [🌱](https://t.me/s/MSc_Daily) I’m ~~surviving in~~ working on Spiking Neural Networks.
 - [🔭](https://telegra.ph/%E8%BA%BA%E5%B9%B3%E5%8D%B3%E6%98%AF%E6%AD%A3%E4%B9%89-06-23) I’m currently ~~touching fish~~.
 - [📫](#to-reach-me) To reach me.
 - [🏆](#to-reward-me) ~~To reward me.~~
@@ -81,16 +81,16 @@
 [![](https://img.shields.io/badge/VirtualBox-*-183a61?style=flat-square&logo=virtualbox)](https://www.virtualbox.org/)
 [![](https://img.shields.io/badge/VS%20Code-*-007acc?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Visual%20Studio-*-5c2d91?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/)
-[![](https://img.shields.io/badge/OBS--302e31?style=flat-square&logo=obs-studio)](https://obsproject.com/)
-[![](https://img.shields.io/badge/FFmpeg--007808?style=flat-square&logo=ffmpeg)](https://ffmpeg.org/)
-[![](https://img.shields.io/badge/OpenCV--5C3EE8?style=flat-square&logo=opencv)](https://opencv.org/)
+[![](https://img.shields.io/badge/OBS-*-302e31?style=flat-square&logo=obs-studio)](https://obsproject.com/)
+[![](https://img.shields.io/badge/FFmpeg-*-007808?style=flat-square&logo=ffmpeg)](https://ffmpeg.org/)
+[![](https://img.shields.io/badge/OpenCV-*-5C3EE8?style=flat-square&logo=opencv)](https://opencv.org/)
 
 [![](https://img.shields.io/badge/Python-3.11-3776ab?style=flat-square&logo=python)](https://www.python.org/)
 [![](https://img.shields.io/badge/C-11-a8b9cc?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![](https://img.shields.io/badge/C++-2a-00599c?style=flat-square&logo=c%2B%2B)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![](https://img.shields.io/badge/Go-1.19-00add8?style=flat-square&logo=go)](https://go.dev/)
+[![](https://img.shields.io/badge/Go-1.21-00add8?style=flat-square&logo=go)](https://go.dev/)
 [![](https://img.shields.io/badge/Java-17-ffffff?style=flat-square&logo=oracle)](https://www.java.com/)
-[![](https://img.shields.io/badge/Lua-5.1-2c2d72?style=flat-square&logo=lua)](https://www.lua.org/)
+[![](https://img.shields.io/badge/Lua-5.4-2c2d72?style=flat-square&logo=lua)](https://www.lua.org/)
 [![](https://img.shields.io/badge/LaTeX-*-008080?style=flat-square&logo=latex)](https://www.latex-project.org/)
 
 
@@ -99,7 +99,7 @@
 Telegram: [@userElaina](https://t.me/userelaina) 
 Telegram Channel: [@cyberElaina](https://t.me/cyberElaina)
 
-Email: userElaina@gmail.com userElaina@pm.me
+Email: userElaina@pm.me userElaina@gmail.com
 
 Steam Friend Code: [1023110402](https://steamcommunity.com/id/userElaina)
 
