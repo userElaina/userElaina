@@ -5,7 +5,7 @@
 - [🤡](https://zh.moegirl.org.cn/zh-tw/%E6%B2%99%E8%80%B6(%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85)#) Everyone laughed at Saya, everyone was Saya.
 - [💬](https://github.com/userelaina/userelaina/issues) To ask me about anything.
 - 
-- [🌱](https://t.me/s/MSc_Daily) I’m ~~surviving in~~ working on Spiking Neural Networks.
+- [🌱](https://t.me/s/MSc_Daily) I’m ~~surviving in~~ working on [Derivative-free optimization](https://en.wikipedia.org/wiki/Derivative-free_optimization).
 - [🔭](https://telegra.ph/%E8%BA%BA%E5%B9%B3%E5%8D%B3%E6%98%AF%E6%AD%A3%E4%B9%89-06-23) I’m currently ~~touching fish~~.
 - [📫](#to-reach-me) To reach me.
 - [🏆](#to-reward-me) ~~To reward me.~~
@@ -14,13 +14,13 @@
 
 ### Hello world!
 
-[双德乡停水停电学院生存指北](https://github.com/userElaina/Outlast-JLU-DLC)
+[双德乡停水停电学院生存指北](https://github.com/userElaina/Open-JLU)
 
 [将国际网站伪装成中国网站](https://github.com/userElaina/this-is-the-China-website)
 
 [OpenCV-MinGW-W64-Build](https://github.com/userElaina/OpenCV-MinGW-W64-Build)
 
-[视频转字符画](https://github.com/userElaina/Bad-Apple)
+[视频转字符画](https://github.com/bad-apple-lab/Bad-Apple)
 [提取色卡/提取线稿/勾线/调色/低级水印筛查](https://github.com/userElaina/color-card)
 
 [Windows相关](https://github.com/userElaina/About-Windows)
@@ -45,14 +45,17 @@
 
 ### Python modules
 
+[Where there is light, there is Bad Apple!!](https://github.com/bad-apple-lab/Bad-Apple-Python-Module)
+[![badapple](https://img.shields.io/pypi/v/badapple.svg?style=flat-square&logo=pypi&label=badapple)](https://pypi.org/project/badapple)
+
+[Play audio in any available way.](https://github.com/userElaina/anyplayer)
+[![anyplayer](https://img.shields.io/pypi/v/anyplayer.svg?style=flat-square&logo=pypi&label=anyplayer)](https://pypi.org/project/anyplayer)
+
 [Colors' names in Chinese, English and Japanese](https://github.com/userElaina/json-colorsname)
 [![colorsname](https://img.shields.io/pypi/v/colorsname.svg?style=flat-square&logo=pypi&label=colorsname)](https://pypi.org/project/colorsname)
 
 [Shell Like CUI](https://github.com/userElaina/shell-like-cui)
 [![shelllikecui](https://img.shields.io/pypi/v/shelllikecui.svg?style=flat-square&logo=pypi&label=shelllikecui)](https://pypi.org/project/shelllikecui)
-
-[Bad Apple Python Module](https://github.com/userElaina/Bad-Apple-Python-Module)
-[![badapple](https://img.shields.io/pypi/v/badapple.svg?style=flat-square&logo=pypi&label=badapple)](https://pypi.org/project/badapple)
 
 <!-- [Console Music Player](https://github.com/userElaina/console-music-player) -->
 <!-- [![muz](https://img.shields.io/pypi/v/muz.svg?style=flat-square&logo=pypi&label=muz)](https://pypi.org/project/muz/) -->
@@ -62,12 +65,6 @@
 
 <!-- [Sweet syntax sugar](https://github.com/userElaina/sugar) -->
 <!-- [![userelaina](https://img.shields.io/pypi/v/userelaina.svg?style=flat-square&logo=pypi&label=userelaina)](https://pypi.org/project/userelaina) -->
-
-### To Do
-
-[pixiv 分布式爬虫](https://github.com/userElaina/pixiv-distributed-crawler)
-[ping-pong](https://github.com/userElaina/ping-pong)
-[Console-Music-Player](https://github.com/userElaina/console-music-player)
 
 ## Platform and Tools
 
