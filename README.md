@@ -5,8 +5,8 @@
 - [🤡](https://zh.moegirl.org.cn/zh-tw/%E6%B2%99%E8%80%B6(%E9%AD%94%E5%A5%B3%E4%B9%8B%E6%97%85)#) Everyone laughed at Saya, everyone was Saya.
 - [💬](https://github.com/userelaina/userelaina/issues) To ask me about anything.
 - 
-- [🌱](https://t.me/s/MSc_Daily) I’m ~~surviving in~~ working on [Derivative-free optimization](https://en.wikipedia.org/wiki/Derivative-free_optimization).
-- [🔭](https://telegra.ph/%E8%BA%BA%E5%B9%B3%E5%8D%B3%E6%98%AF%E6%AD%A3%E4%B9%89-06-23) I’m currently ~~touching fish~~.
+- [🌱](https://t.me/s/MSc_Daily) I’m being fucked by graduate ~~life~~ work.
+- [🔭](https://telegra.ph/%E8%BA%BA%E5%B9%B3%E5%8D%B3%E6%98%AF%E6%AD%A3%E4%B9%89-06-23) ~~I’m touching fish.~~ No life, only work.
 - [📫](#to-reach-me) To reach me.
 - [🏆](#to-reward-me) ~~To reward me.~~
 
@@ -18,15 +18,14 @@
 
 [将国际网站伪装成中国网站](https://github.com/userElaina/this-is-the-China-website)
 
-[OpenCV-MinGW-W64-Build](https://github.com/userElaina/OpenCV-MinGW-W64-Build)
+[视频转字符画](https://github.com/bad-apple-lab/Bad-Apple) [Python Module](https://github.com/bad-apple-lab/Bad-Apple-Python-Module)
 
-[视频转字符画](https://github.com/bad-apple-lab/Bad-Apple)
 [提取色卡/提取线稿/勾线/调色/低级水印筛查](https://github.com/userElaina/color-card)
 
 [Windows相关](https://github.com/userElaina/About-Windows)
 [其它小工具](https://github.com/userElaina/small-tools)
 
-### QwQ Series
+### QwQ (About Crypto)
 
 1. [Homework for Haffman. ](https://github.com/userElaina/naive-Huffman)
 只支持只有ascii字符的文件.
@@ -68,21 +67,21 @@
 
 ## Platform and Tools
 
-[![](https://img.shields.io/badge/Manjaro-*-35bf5c?style=flat-square&logo=manjaro)](https://manjaro.org/)
-[![](https://img.shields.io/badge/Windows-10-0078d6?style=flat-square&logo=windows)](https://www.microsoft.com/windows/get-windows-10)
-[![](https://img.shields.io/badge/Arch%20Linux-*-1793d1?style=flat-square&logo=arch-linux)](https://archlinux.org/)
-[![](https://img.shields.io/badge/Ubuntu-22.04-e95420?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/Debian-11-a81d33?style=flat-square&logo=debian)](https://www.debian.org/)
-[![](https://img.shields.io/badge/Proxmox%20VE-7.4-e57000?style=flat-square&logo=proxmox)](https://www.proxmox.com/)
+[![](https://img.shields.io/badge/Manjaro-37474f?style=flat-square&logo=manjaro)](https://manjaro.org/)
+[![](https://img.shields.io/badge/Windows-0078d6?style=flat-square&logo=windows)](https://www.microsoft.com/windows/get-windows-10)
+[![](https://img.shields.io/badge/Arch%20Linux-white?style=flat-square&logo=arch-linux)](https://archlinux.org/)
+[![](https://img.shields.io/badge/Ubuntu-2a001c?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/Debian-a81d33?style=flat-square&logo=debian)](https://www.debian.org/)
+[![](https://img.shields.io/badge/Proxmox%20VE-black?style=flat-square&logo=proxmox)](https://www.proxmox.com/)
 
-[![](https://img.shields.io/badge/VirtualBox-*-183a61?style=flat-square&logo=virtualbox)](https://www.virtualbox.org/)
-[![](https://img.shields.io/badge/VS%20Code-*-007acc?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Visual%20Studio-*-5c2d91?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/)
-[![](https://img.shields.io/badge/OBS-*-302e31?style=flat-square&logo=obs-studio)](https://obsproject.com/)
-[![](https://img.shields.io/badge/FFmpeg-*-007808?style=flat-square&logo=ffmpeg)](https://ffmpeg.org/)
-[![](https://img.shields.io/badge/OpenCV-*-5C3EE8?style=flat-square&logo=opencv)](https://opencv.org/)
+[![](https://img.shields.io/badge/VirtualBox-183a61?style=flat-square&logo=virtualbox)](https://www.virtualbox.org/)
+[![](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=visual-studio-code)](https://code.visualstudio.com/)
+[![](https://img.shields.io/badge/Visual%20Studio-5c2d91?style=flat-square&logo=visual-studio)](https://visualstudio.microsoft.com/)
+[![](https://img.shields.io/badge/OBS-302e31?style=flat-square&logo=obs-studio)](https://obsproject.com/)
+[![](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg)](https://ffmpeg.org/)
+[![](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv)](https://opencv.org/)
 
-[![](https://img.shields.io/badge/Python-3.11-3776ab?style=flat-square&logo=python)](https://www.python.org/)
+[![](https://img.shields.io/badge/Python-3.12-3776ab?style=flat-square&logo=python)](https://www.python.org/)
 [![](https://img.shields.io/badge/C-11-a8b9cc?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
 [![](https://img.shields.io/badge/C++-2a-00599c?style=flat-square&logo=c%2B%2B)](https://en.wikipedia.org/wiki/C%2B%2B)
 [![](https://img.shields.io/badge/Go-1.21-00add8?style=flat-square&logo=go)](https://go.dev/)
