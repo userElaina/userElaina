@@ -55,8 +55,8 @@
 [![](https://img.shields.io/badge/Manjaro-37474f?style=flat-square&logo=manjaro)](https://manjaro.org/)
 [![](https://img.shields.io/badge/Windows-0078d6?style=flat-square&logo=steamdeck)](https://store.steampowered.com/)
 [![](https://img.shields.io/badge/Debian-a81d33?style=flat-square&logo=debian)](https://www.debian.org/)
-[![](https://img.shields.io/badge/Proxmox%20VE-black?style=flat-square&logo=proxmox)](https://www.proxmox.com/)
-[![](https://img.shields.io/badge/Arch%20Linux-white?style=flat-square&logo=arch-linux)](https://archlinux.org/)
+[![](https://img.shields.io/badge/Proxmox%20VE-000000?style=flat-square&logo=proxmox)](https://www.proxmox.com/)
+[![](https://img.shields.io/badge/Arch%20Linux-000000?style=flat-square&logo=arch-linux)](https://archlinux.org/)
 [![](https://img.shields.io/badge/Ubuntu-2a001c?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
 
 [![](https://img.shields.io/badge/Python-ffd43b?style=flat-square&logo=python)](https://www.python.org/)
@@ -81,9 +81,9 @@
 [![](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat-square&logo=opencv)](https://opencv.org/)
 
 [![](https://img.shields.io/badge/Anaconda-000000?style=flat-square&logo=anaconda)](https://www.anaconda.com/)
-[![](https://img.shields.io/badge/Jupyter-ffffff?style=flat-square&logo=jupyter)](https://jupyter.org/)
-[![](https://img.shields.io/badge/PyTorch-ffffff?style=flat-square&logo=pytorch)](https://pytorch.org/)
-[![](https://img.shields.io/badge/TensorFlow-ffffff?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/)
+[![](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter)](https://jupyter.org/)
+[![](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch)](https://pytorch.org/)
+[![](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/)
 
 ## To reach me
 
