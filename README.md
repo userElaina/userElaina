@@ -115,6 +115,6 @@ Steam Friend Code: [1023110402](https://steamcommunity.com/id/userElaina)
 
 ## Thank you for meeting me 😘
 
-![Count](https://count.getloli.com/get/@userElaina?theme=gelbooru)
+![Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=userelaina&include_orgs=true&count_private=true&show_icons=true&include_all_commits=true&icon_color=F080C0)
 
-![Stats](https://github-readme-stats.vercel.app/api?username=userElaina&show_icons=true&count_private=true&icon_color=F080C0)
+![Count](https://count.getloli.com/get/@userElaina?theme=gelbooru)
