@@ -8,19 +8,34 @@
 - 📉 ~~I’m [touching fish](https://telegra.ph/%E8%BA%BA%E5%B9%B3%E5%8D%B3%E6%98%AF%E6%AD%A3%E4%B9%89-06-23).~~ No life, only work.
 - 📫 To [reach](#to-reach-me) me.
 
+<!-- ## Content -->
+
+<!-- Map of [Stick Fight: The Game](https://store.steampowered.com/app/674940/) -->
+<!-- [![](https://img.shields.io/steam/downloads/2136043969?style=flat-square&logo=steam&label=QwQ)](https://steamcommunity.com/sharedfiles/filedetails/?id=2136043969) -->
+
 ## Repositories
 
-### Hello world!
-
-*双德乡停水停电学院* [生存指北](https://github.com/userElaina/Open-JLU) [开源社区账户和 Blog 收集](https://github.com/userElaina/JLU-roll)
+*长春停水停电停暖气学院*
+[生存指北](https://github.com/userElaina/Open-JLU)
+[开源社区账户和 Blog 收集](https://github.com/userElaina/JLU-roll)
 
 [将国际网站伪装成中国网站](https://github.com/userElaina/this-is-the-China-website)
+[![](https://img.shields.io/greasyfork/dt/461427?style=flat-square&logo=greasyfork&label=Greasy%20Fork)](https://greasyfork.org/scripts/461427)
 
-*Bad Apple!!* (视频转字符画) [C++](https://github.com/bad-apple-lab/Bad-Apple) [Python Module](https://github.com/bad-apple-lab/Bad-Apple-Python-Module)
+*Bad Apple!!* (视频转字符画)
+[C++](https://github.com/bad-apple-lab/Bad-Apple)
+[Python Module](https://github.com/bad-apple-lab/Bad-Apple-Python-Module)
 
 [提取色卡/提取线稿/勾线/调色/低级水印筛查](https://github.com/userElaina/color-card)
 
-[Windows 相关](https://github.com/userElaina/About-Windows) [崩坏3相关](https://github.com/userElaina/Honkai-Impact-3rd)
+[Windows 相关](https://github.com/userElaina/About-Windows)
+[崩坏3相关](https://github.com/userElaina/Honkai-Impact-3rd)
+
+[爱莉希雅 预言的勇者 MAD](https://github.com/userElaina/the-brave-Elysia-of-prophecy)
+[![](https://img.shields.io/badge/Bilibili-有字幕-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1qTmrYKEUP)
+[![](https://img.shields.io/badge/Bilibili-无字幕-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1ZTmrYKE3W)
+[![](https://img.shields.io/badge/YouTube-有字幕-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=EkEbB38t2Cg)
+[![](https://img.shields.io/badge/YouTube-无字幕-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=tHiDTm-ReIQ)
 
 ### Python modules
 
@@ -48,7 +63,7 @@
 文件分卷存储为位图.暂时没想好要怎么加密.或许可以把3和4结合一下,这样也就可以在"对方"面前解释为什么文件那么大了.
 
 5. [M of N keys.](https://github.com/userElaina/m-of-n-keys)
-一个 key /文件生成 n 个 keyfile, 获取其中的任意 m 个即可还原 key /解密原文件.
+一个 key /文件生成 n 个 keyfile, 获取其中的任意 m 个即可解密原文件.
 
 ## Platform and Tools
 
@@ -74,12 +89,12 @@
 [![](https://img.shields.io/badge/QEMU-000000?style=flat-square&logo=qemu)](https://www.qemu.org/)
 [![](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=vim)](https://code.visualstudio.com/)
 [![](https://img.shields.io/badge/Visual%20Studio-5c2d91?style=flat-square&logo=intellijidea)](https://visualstudio.microsoft.com/)
-[![](https://img.shields.io/badge/pycharm-000000?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
+[![](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
 [![](https://img.shields.io/badge/OBS-302e31?style=flat-square&logo=obs-studio)](https://obsproject.com/)
 [![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity)](https://unity.com/)
 [![](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg)](https://ffmpeg.org/)
-[![](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat-square&logo=opencv)](https://opencv.org/)
 
+[![](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat-square&logo=opencv)](https://opencv.org/)
 [![](https://img.shields.io/badge/Anaconda-000000?style=flat-square&logo=anaconda)](https://www.anaconda.com/)
 [![](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter)](https://jupyter.org/)
 [![](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch)](https://pytorch.org/)
@@ -93,8 +108,6 @@ Telegram Channel: [@cyberElaina](https://t.me/cyberElaina)
 Email: userElaina@pm.me userElaina@gmail.com
 
 Steam Friend Code: [1023110402](https://steamcommunity.com/id/userElaina)
-
-SMS: `+1 (513) 449-1176`
 
 <!-- ## To reward me -->
 
