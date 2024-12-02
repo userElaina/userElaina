@@ -73,6 +73,7 @@
 [![](https://img.shields.io/badge/Proxmox%20VE-000000?style=flat-square&logo=proxmox)](https://www.proxmox.com/)
 [![](https://img.shields.io/badge/Arch%20Linux-000000?style=flat-square&logo=arch-linux)](https://archlinux.org/)
 [![](https://img.shields.io/badge/Ubuntu-2a001c?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
+[![](https://img.shields.io/badge/OpenWrt-00b5e2?style=flat-square&logo=openwrt)](https://openwrt.org/)
 
 [![](https://img.shields.io/badge/Python-ffd43b?style=flat-square&logo=python)](https://www.python.org/)
 [![](https://img.shields.io/badge/C-5c6bc0?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -87,10 +88,10 @@
 [![](https://img.shields.io/badge/VMware-005c8a?style=flat-square&logo=vmware)](https://www.vmware.com/)
 [![](https://img.shields.io/badge/VirtualBox-183a61?style=flat-square&logo=virtualbox)](https://www.virtualbox.org/)
 [![](https://img.shields.io/badge/QEMU-000000?style=flat-square&logo=qemu)](https://www.qemu.org/)
-[![](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=vim)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/VS-5c2d91?style=flat-square&logo=intellijidea)](https://visualstudio.microsoft.com/)
+[![](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=vim)](https://neovim.io/)
+[![](https://img.shields.io/badge/VS-5c2d91?style=flat-square&logo=intellijidea)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
-[![](https://img.shields.io/badge/OBS-302e31?style=flat-square&logo=obs-studio)](https://obsproject.com/)
+<!-- [![](https://img.shields.io/badge/OBS-302e31?style=flat-square&logo=obs-studio)](https://obsproject.com/) -->
 [![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity)](https://unity.com/)
 [![](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg)](https://ffmpeg.org/)
 
