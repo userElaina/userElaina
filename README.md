@@ -88,7 +88,7 @@
 [![](https://img.shields.io/badge/VirtualBox-183a61?style=flat-square&logo=virtualbox)](https://www.virtualbox.org/)
 [![](https://img.shields.io/badge/QEMU-000000?style=flat-square&logo=qemu)](https://www.qemu.org/)
 [![](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=vim)](https://code.visualstudio.com/)
-[![](https://img.shields.io/badge/Visual%20Studio-5c2d91?style=flat-square&logo=intellijidea)](https://visualstudio.microsoft.com/)
+[![](https://img.shields.io/badge/VS-5c2d91?style=flat-square&logo=intellijidea)](https://visualstudio.microsoft.com/)
 [![](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
 [![](https://img.shields.io/badge/OBS-302e31?style=flat-square&logo=obs-studio)](https://obsproject.com/)
 [![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity)](https://unity.com/)
