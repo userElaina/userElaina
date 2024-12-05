@@ -22,20 +22,20 @@
 [将国际网站伪装成中国网站](https://github.com/userElaina/this-is-the-China-website)
 [![](https://img.shields.io/greasyfork/dt/461427?style=flat-square&logo=greasyfork&label=Greasy%20Fork)](https://greasyfork.org/scripts/461427)
 
-*Bad Apple!!* (视频转字符画)
+[提取色卡/提取线稿/勾线/调色/低级水印筛查](https://github.com/userElaina/color-card)
+
+*Bad Apple!!* (ASCII Art)
 [C++](https://github.com/bad-apple-lab/Bad-Apple)
 [Python Module](https://github.com/bad-apple-lab/Bad-Apple-Python-Module)
 
-[提取色卡/提取线稿/勾线/调色/低级水印筛查](https://github.com/userElaina/color-card)
+About [Windows](https://github.com/userElaina/About-Windows)
+[Honkai Impact 3rd (崩坏3)](https://github.com/userElaina/Honkai-Impact-3rd)
 
-[Windows 相关](https://github.com/userElaina/About-Windows)
-[崩坏3相关](https://github.com/userElaina/Honkai-Impact-3rd)
-
-[爱莉希雅 预言的勇者 MAD](https://github.com/userElaina/the-brave-Elysia-of-prophecy)
-[![](https://img.shields.io/badge/Bilibili-有字幕-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1qTmrYKEUP)
-[![](https://img.shields.io/badge/Bilibili-无字幕-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1ZTmrYKE3W)
-[![](https://img.shields.io/badge/YouTube-有字幕-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=EkEbB38t2Cg)
-[![](https://img.shields.io/badge/YouTube-无字幕-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=tHiDTm-ReIQ)
+[Elysia *预言的勇者* MAD](https://github.com/userElaina/the-brave-Elysia-of-prophecy)
+[![](https://img.shields.io/badge/Bilibili-w%2F%20Subtitles-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1qTmrYKEUP)
+[![](https://img.shields.io/badge/Bilibili-w%2Fo%20Subtitles-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1ZTmrYKE3W)
+[![](https://img.shields.io/badge/YouTube-w%2F%20Subtitles-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=EkEbB38t2Cg)
+[![](https://img.shields.io/badge/YouTube-w%2Fo%20Subtitles-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=tHiDTm-ReIQ)
 
 ### Python modules
 
