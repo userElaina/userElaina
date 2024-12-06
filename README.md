@@ -73,7 +73,7 @@ About [Windows](https://github.com/userElaina/About-Windows)
 [![](https://img.shields.io/badge/Proxmox%20VE-000000?style=flat-square&logo=proxmox)](https://www.proxmox.com/)
 [![](https://img.shields.io/badge/Arch%20Linux-000000?style=flat-square&logo=arch-linux)](https://archlinux.org/)
 [![](https://img.shields.io/badge/Ubuntu-2a001c?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/OpenWrt-00b5e2?style=flat-square&logo=openwrt)](https://openwrt.org/)
+[![](https://img.shields.io/badge/OpenWrt-000000?style=flat-square&logo=openwrt)](https://openwrt.org/)
 
 [![](https://img.shields.io/badge/Python-ffd43b?style=flat-square&logo=python)](https://www.python.org/)
 [![](https://img.shields.io/badge/C-5c6bc0?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -91,9 +91,9 @@ About [Windows](https://github.com/userElaina/About-Windows)
 [![](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=vim)](https://neovim.io/)
 [![](https://img.shields.io/badge/VS-5c2d91?style=flat-square&logo=intellijidea)](https://www.jetbrains.com/idea/)
 [![](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
-<!-- [![](https://img.shields.io/badge/OBS-302e31?style=flat-square&logo=obs-studio)](https://obsproject.com/) -->
 [![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity)](https://unity.com/)
 [![](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg)](https://ffmpeg.org/)
+<!-- [![](https://img.shields.io/badge/OBS-302e31?style=flat-square&logo=obs-studio)](https://obsproject.com/) -->
 
 [![](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat-square&logo=opencv)](https://opencv.org/)
 [![](https://img.shields.io/badge/Anaconda-000000?style=flat-square&logo=anaconda)](https://www.anaconda.com/)
