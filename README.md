@@ -1,4 +1,4 @@
-# Hi ~ I'm userElaina.
+# Hi ~ I'm userElaina
 
 - 🌸 Hobby: Music and ACGN.
 - 🎵 My Code: [Life](https://github.com/userElaina) [Work](https://github.com/workelaina) [Balance](https://git.mil/)
@@ -20,7 +20,7 @@
 [开源社区账户和 Blog 收集](https://github.com/userElaina/JLU-roll)
 
 [将国际网站伪装成中国网站](https://github.com/userElaina/this-is-the-China-website)
-[![](https://img.shields.io/greasyfork/dt/461427?style=flat-square&logo=greasyfork&label=Greasy%20Fork)](https://greasyfork.org/scripts/461427)
+[![greasyfork](https://img.shields.io/greasyfork/dt/461427?style=flat-square&logo=greasyfork&label=Greasy%20Fork)](https://greasyfork.org/scripts/461427)
 
 [提取色卡/提取线稿/勾线/调色/低级水印筛查](https://github.com/userElaina/color-card)
 
@@ -32,10 +32,10 @@ About [Windows](https://github.com/userElaina/About-Windows)
 [Honkai Impact 3rd (崩坏3)](https://github.com/userElaina/Honkai-Impact-3rd)
 
 [Elysia *预言的勇者* MAD](https://github.com/userElaina/the-brave-Elysia-of-prophecy)
-[![](https://img.shields.io/badge/Bilibili-w%2F%20Subtitles-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1qTmrYKEUP)
-[![](https://img.shields.io/badge/Bilibili-w%2Fo%20Subtitles-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1ZTmrYKE3W)
-[![](https://img.shields.io/badge/YouTube-w%2F%20Subtitles-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=EkEbB38t2Cg)
-[![](https://img.shields.io/badge/YouTube-w%2Fo%20Subtitles-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=tHiDTm-ReIQ)
+[![BV1qTmrYKEUP](https://img.shields.io/badge/Bilibili-w%2F%20Subtitles-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1qTmrYKEUP)
+[![BV1ZTmrYKE3W](https://img.shields.io/badge/Bilibili-w%2Fo%20Subtitles-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1ZTmrYKE3W)
+[![EkEbB38t2Cg](https://img.shields.io/badge/YouTube-w%2F%20Subtitles-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=EkEbB38t2Cg)
+[![tHiDTm-ReIQ](https://img.shields.io/badge/YouTube-w%2Fo%20Subtitles-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=tHiDTm-ReIQ)
 
 ### Python modules
 
@@ -67,55 +67,52 @@ About [Windows](https://github.com/userElaina/About-Windows)
 
 ## Platform and Tools
 
-[![](https://img.shields.io/badge/Manjaro-37474f?style=flat-square&logo=manjaro)](https://manjaro.org/)
-[![](https://img.shields.io/badge/Windows-0078d6?style=flat-square&logo=steamdeck)](https://store.steampowered.com/)
-[![](https://img.shields.io/badge/Debian-a81d33?style=flat-square&logo=debian)](https://www.debian.org/)
-[![](https://img.shields.io/badge/Proxmox%20VE-000000?style=flat-square&logo=proxmox)](https://www.proxmox.com/)
-[![](https://img.shields.io/badge/Arch%20Linux-000000?style=flat-square&logo=arch-linux)](https://archlinux.org/)
-[![](https://img.shields.io/badge/Ubuntu-2a001c?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
-[![](https://img.shields.io/badge/OpenWrt-000000?style=flat-square&logo=openwrt)](https://openwrt.org/)
+[![manjaro](https://img.shields.io/badge/Manjaro-37474f?style=flat-square&logo=manjaro)](https://manjaro.org/)
+[![windows](https://img.shields.io/badge/Windows-0078d6?style=flat-square&logo=steamdeck)](https://store.steampowered.com/)
+[![debian](https://img.shields.io/badge/Debian-a81d33?style=flat-square&logo=debian)](https://www.debian.org/)
+[![proxmox](https://img.shields.io/badge/Proxmox%20VE-000000?style=flat-square&logo=proxmox)](https://www.proxmox.com/)
+[![archlinux](https://img.shields.io/badge/Arch%20Linux-000000?style=flat-square&logo=arch-linux)](https://archlinux.org/)
+[![ubuntu](https://img.shields.io/badge/Ubuntu-2a001c?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
+[![openwrt](https://img.shields.io/badge/OpenWrt-000000?style=flat-square&logo=openwrt)](https://openwrt.org/)
 
-[![](https://img.shields.io/badge/Python-ffd43b?style=flat-square&logo=python)](https://www.python.org/)
-[![](https://img.shields.io/badge/C-5c6bc0?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
-[![](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=c%2B%2B)](https://en.wikipedia.org/wiki/C%2B%2B)
-[![](https://img.shields.io/badge/Go-29beb0?style=flat-square&logo=go)](https://go.dev/)
-[![](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk)](https://www.java.com/)
-[![](https://img.shields.io/badge/Lua-2c2d72?style=flat-square&logo=lua)](https://www.lua.org/)
-[![](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)](https://www.rust-lang.org/)
-[![](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex)](https://www.latex-project.org/)
-[![](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown)](https://en.wikipedia.org/wiki/Markdown)
+[![python](https://img.shields.io/badge/Python-ffd43b?style=flat-square&logo=python)](https://www.python.org/)
+[![c](https://img.shields.io/badge/C-5c6bc0?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
+[![cpp](https://img.shields.io/badge/C++-00599c?style=flat-square&logo=c%2B%2B)](https://en.wikipedia.org/wiki/C%2B%2B)
+[![go](https://img.shields.io/badge/Go-29beb0?style=flat-square&logo=go)](https://go.dev/)
+[![java](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk)](https://www.java.com/)
+[![lua](https://img.shields.io/badge/Lua-2c2d72?style=flat-square&logo=lua)](https://www.lua.org/)
+[![rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)](https://www.rust-lang.org/)
+[![latex](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex)](https://www.latex-project.org/)
+[![markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown)](https://en.wikipedia.org/wiki/Markdown)
 
-[![](https://img.shields.io/badge/VMware-005c8a?style=flat-square&logo=vmware)](https://www.vmware.com/)
-[![](https://img.shields.io/badge/VirtualBox-183a61?style=flat-square&logo=virtualbox)](https://www.virtualbox.org/)
-[![](https://img.shields.io/badge/QEMU-000000?style=flat-square&logo=qemu)](https://www.qemu.org/)
-[![](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=vim)](https://neovim.io/)
-[![](https://img.shields.io/badge/VS-5c2d91?style=flat-square&logo=intellijidea)](https://www.jetbrains.com/idea/)
-[![](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
-[![](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity)](https://unity.com/)
-[![](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg)](https://ffmpeg.org/)
+[![vmware](https://img.shields.io/badge/VMware-005c8a?style=flat-square&logo=vmware)](https://www.vmware.com/)
+[![virtualbox](https://img.shields.io/badge/VirtualBox-183a61?style=flat-square&logo=virtualbox)](https://www.virtualbox.org/)
+[![qemu](https://img.shields.io/badge/QEMU-000000?style=flat-square&logo=qemu)](https://www.qemu.org/)
+[![vsc](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=vim)](https://neovim.io/)
+[![vs](https://img.shields.io/badge/VS-5c2d91?style=flat-square&logo=intellijidea)](https://www.jetbrains.com/idea/)
+[![pycharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
+[![unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity)](https://unity.com/)
+[![ffmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg)](https://ffmpeg.org/)
 <!-- [![](https://img.shields.io/badge/OBS-302e31?style=flat-square&logo=obs-studio)](https://obsproject.com/) -->
 
-[![](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat-square&logo=opencv)](https://opencv.org/)
-[![](https://img.shields.io/badge/Anaconda-000000?style=flat-square&logo=anaconda)](https://www.anaconda.com/)
-[![](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter)](https://jupyter.org/)
-[![](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch)](https://pytorch.org/)
-[![](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/)
+[![opencv](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat-square&logo=opencv)](https://opencv.org/)
+[![anaconda](https://img.shields.io/badge/Anaconda-000000?style=flat-square&logo=anaconda)](https://www.anaconda.com/)
+[![jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter)](https://jupyter.org/)
+[![pytorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch)](https://pytorch.org/)
+[![tensorflow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/)
 
 ## To reach me
 
-Telegram: [@userElaina](https://t.me/userelaina) 
+Telegram: [@userElaina](https://t.me/userelaina)
+
 Telegram Channel: [@cyberElaina](https://t.me/cyberElaina)
 
-Email: userElaina@pm.me userElaina@gmail.com
+Email: [userElaina@pm.me](mailto:userElaina@pm.me) [userElaina@gmail.com](mailto:userElaina@gmail.com)
 
 Steam Friend Code: [1023110402](https://steamcommunity.com/id/userElaina)
 
-<!-- ## To reward me -->
-
-<!-- https://paypal.me/mo19260817 -->
-
 ## Thank you for meeting me 😘
 
-![Stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=userelaina&include_orgs=true&count_private=true&show_icons=true&include_all_commits=true&icon_color=F080C0)
+![stats](https://github-readme-stats-git-masterorgs-github-readme-stats-team.vercel.app/api?username=userelaina&include_orgs=true&count_private=true&show_icons=true&include_all_commits=true&icon_color=F080C0)
 
-![Count](https://count.getloli.com/get/@userElaina?theme=gelbooru)
+![count](https://count.getloli.com/get/@userElaina?theme=gelbooru)
