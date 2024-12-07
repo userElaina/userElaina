@@ -3,15 +3,15 @@
 - 🌸 Hobby: Music and ACGN.
 - 🎵 My Code: [Life](https://github.com/userElaina) [Work](https://github.com/workelaina) [Balance](https://git.mil/)
 - 💬 To [ask](https://github.com/userelaina/userelaina/issues) me about anything.
-- 
+-
 - 🧪 I’m being fucked by graduate ~~[life](https://t.me/s/MSc_Daily)~~ work.
 - 📉 ~~I’m [touching fish](https://telegra.ph/%E8%BA%BA%E5%B9%B3%E5%8D%B3%E6%98%AF%E6%AD%A3%E4%B9%89-06-23).~~ No life, only work.
 - 📫 To [reach](#to-reach-me) me.
 
-<!-- ## Content -->
+<!-- ## Content
 
-<!-- Map of [Stick Fight: The Game](https://store.steampowered.com/app/674940/) -->
-<!-- [![](https://img.shields.io/steam/downloads/2136043969?style=flat-square&logo=steam&label=QwQ)](https://steamcommunity.com/sharedfiles/filedetails/?id=2136043969) -->
+Map of [Stick Fight: The Game](https://store.steampowered.com/app/674940/)
+[![qwq](https://img.shields.io/steam/downloads/2136043969?style=flat-square&logo=steam&label=QwQ)](https://steamcommunity.com/sharedfiles/filedetails/?id=2136043969) -->
 
 ## Repositories
 
@@ -48,7 +48,7 @@ About [Windows](https://github.com/userElaina/About-Windows)
 [Quickly find the nearest xterm 256 color index of an RGB.](https://github.com/userElaina/python-x256-offline)
 [![x256offline](https://img.shields.io/pypi/v/x256offline.svg?style=flat-square&logo=pypi&label=x256offline)](https://pypi.org/project/x256offline)
 
-### QwQ Crypto Toys
+<!-- ### QwQ Crypto Toys
 
 1. [Homework for Haffman.](https://github.com/userElaina/naive-Huffman)
 只支持只有ascii字符的文件.
@@ -63,7 +63,7 @@ About [Windows](https://github.com/userElaina/About-Windows)
 文件分卷存储为位图.暂时没想好要怎么加密.或许可以把3和4结合一下,这样也就可以在"对方"面前解释为什么文件那么大了.
 
 5. [M of N keys.](https://github.com/userElaina/m-of-n-keys)
-一个 key /文件生成 n 个 keyfile, 获取其中的任意 m 个即可解密原文件.
+一个 key /文件生成 n 个 keyfile, 获取其中的任意 m 个即可解密原文件. -->
 
 ## Platform and Tools
 
