@@ -39,14 +39,17 @@ About [Windows](https://github.com/userElaina/About-Windows)
 
 ### Python modules
 
-[Where there is light, there is Bad Apple!!](https://github.com/bad-apple-lab/Bad-Apple-Python-Module)
+[Where there is *light*, there is *Bad Apple!!*](https://github.com/bad-apple-lab/Bad-Apple-Python-Module)
 [![badapple](https://img.shields.io/pypi/v/badapple.svg?style=flat-square&logo=pypi&label=badapple)](https://pypi.org/project/badapple)
 
-[A simple, minimal-hassle, few-dependency Python audio playback solution.](https://github.com/userElaina/anyplayer)
+[A simple, minimal-hassle, few-dependency **Python** audio playback solution.](https://github.com/userElaina/anyplayer)
 [![anyplayer](https://img.shields.io/pypi/v/anyplayer.svg?style=flat-square&logo=pypi&label=anyplayer)](https://pypi.org/project/anyplayer)
 
-[Quickly find the nearest xterm 256 color index of an RGB.](https://github.com/userElaina/python-x256-offline)
+[Quickly find the nearest **xterm 256** color index of an **RGB**.](https://github.com/userElaina/python-x256-offline)
 [![x256offline](https://img.shields.io/pypi/v/x256offline.svg?style=flat-square&logo=pypi&label=x256offline)](https://pypi.org/project/x256offline)
+
+[A dependency-free, code-less `socket`-based solution for resolving environment incompatibilities.](https://github.com/userElaina/inincompatibility)
+[![inincompatibility](https://img.shields.io/pypi/v/inincompatibility.svg?style=flat-square&logo=pypi&label=inincompatibility)](https://pypi.org/project/inincompatibility)
 
 <!-- ### QwQ Crypto Toys
 
