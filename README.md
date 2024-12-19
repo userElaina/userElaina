@@ -50,7 +50,8 @@ About [Windows](https://github.com/userElaina/About-Windows)
 [A dependency-free, code-less `socket`-based solution for resolving environment incompatibilities.](https://github.com/userElaina/inincompatibility)
 [![inincompatibility](https://img.shields.io/pypi/v/inincompatibility.svg?style=flat-square&logo=pypi&label=inincompatibility)](https://pypi.org/project/inincompatibility)
 
-<!-- ### QwQ Crypto Toys
+<!--
+### QwQ Crypto Toys
 
 1. [Homework for Haffman.](https://github.com/userElaina/naive-Huffman)
 只支持只有ascii字符的文件.
@@ -65,7 +66,8 @@ About [Windows](https://github.com/userElaina/About-Windows)
 文件分卷存储为位图.暂时没想好要怎么加密.或许可以把3和4结合一下,这样也就可以在"对方"面前解释为什么文件那么大了.
 
 5. [M of N keys.](https://github.com/userElaina/m-of-n-keys)
-一个 key /文件生成 n 个 keyfile, 获取其中的任意 m 个即可解密原文件. -->
+一个 key /文件生成 n 个 keyfile, 获取其中的任意 m 个即可解密原文件.
+-->
 
 ## Platform and Tools
 
