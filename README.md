@@ -3,8 +3,7 @@
 - 🌸 Hobby: Music and ACGN.
 - 🎵 My Code: [Life](https://github.com/userElaina) [Work](https://github.com/workelaina) [Balance](https://git.mil/)
 - 💬 To [ask](https://github.com/userelaina/userelaina/issues) me about anything.
-- 🧪 I’m being fucked by graduate ~~[life](https://t.me/s/MSc_Daily)~~ work.
-- 📉 ~~I’m [touching fish](https://telegra.ph/%E8%BA%BA%E5%B9%B3%E5%8D%B3%E6%98%AF%E6%AD%A3%E4%B9%89-06-23).~~ No life, only work.
+- 🧪 My major is CS and AI.
 - 📫 To [reach](#to-reach-me) me.
 
 <!-- ## Content
