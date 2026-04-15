@@ -20,14 +20,11 @@ Map of [Stick Fight: The Game](https://store.steampowered.com/app/674940/)
 [将国际网站伪装成中国网站](https://github.com/userElaina/this-is-the-China-website)
 [![greasyfork](https://img.shields.io/greasyfork/dt/461427?style=flat-square&logo=greasyfork&label=Greasy%20Fork)](https://greasyfork.org/scripts/461427)
 
-[提取色卡/提取线稿/勾线/调色/低级水印筛查](https://github.com/userElaina/color-card)
-
 *Bad Apple!!* (ASCII Art)
 [C++](https://github.com/bad-apple-lab/Bad-Apple)
 [Python Module](https://github.com/bad-apple-lab/Bad-Apple-Python-Module)
 
-About [Windows](https://github.com/userElaina/About-Windows)
-[Honkai Impact 3rd (崩坏3)](https://github.com/userElaina/Honkai-Impact-3rd)
+[提取色卡/提取线稿/勾线/调色/低级水印筛查](https://github.com/userElaina/color-card)
 
 [Elysia *预言的勇者* MAD](https://github.com/userElaina/the-brave-Elysia-of-prophecy)
 [![BV1qTmrYKEUP](https://img.shields.io/badge/Bilibili-w%2F%20Subtitles-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1qTmrYKEUP)
@@ -49,34 +46,16 @@ About [Windows](https://github.com/userElaina/About-Windows)
 [A dependency-free, code-less `socket`-based solution for resolving environment incompatibilities.](https://github.com/userElaina/inincompatibility)
 [![inincompatibility](https://img.shields.io/pypi/v/inincompatibility.svg?style=flat-square&logo=pypi&label=inincompatibility)](https://pypi.org/project/inincompatibility)
 
-<!--
-### QwQ Crypto Toys
-
-1. [Homework for Haffman.](https://github.com/userElaina/naive-Huffman)
-只支持只有ascii字符的文件.
-
-2. [Prefix xor.](https://github.com/userElaina/naive-confuse)
-只是简单的混淆(异或前缀和).
-
-3. [Defend against check the water meter.](https://github.com/userElaina/one-file-with-many-password)
-多文件多密码打包成一个文件,即变成单文件多密码.给一个密码,只能提取对应文件.同时你可以生成多个只包括部分真密码的密码序列,使得就算有人拿枪顶着你的脑袋让你解码,你也可以隐藏想要隐藏的文件.
-
-4. [Split volume to bmp.](https://github.com/userElaina/big-file-2-small-bmp)
-文件分卷存储为位图.暂时没想好要怎么加密.或许可以把3和4结合一下,这样也就可以在"对方"面前解释为什么文件那么大了.
-
-5. [M of N keys.](https://github.com/userElaina/m-of-n-keys)
-一个 key /文件生成 n 个 keyfile, 获取其中的任意 m 个即可解密原文件.
--->
-
 ## Platform and Tools
 
-[![manjaro](https://img.shields.io/badge/Manjaro-37474f?style=flat-square&logo=manjaro)](https://manjaro.org/)
 [![windows](https://img.shields.io/badge/Windows-0078d6?style=flat-square&logo=steamdeck)](https://store.steampowered.com/)
+[![manjaro](https://img.shields.io/badge/Manjaro-37474f?style=flat-square&logo=manjaro)](https://manjaro.org/)
 [![debian](https://img.shields.io/badge/Debian-a81d33?style=flat-square&logo=debian)](https://www.debian.org/)
+[![ubuntu](https://img.shields.io/badge/Ubuntu-2a001c?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
 [![proxmox](https://img.shields.io/badge/Proxmox%20VE-000000?style=flat-square&logo=proxmox)](https://www.proxmox.com/)
 [![archlinux](https://img.shields.io/badge/Arch%20Linux-000000?style=flat-square&logo=arch-linux)](https://archlinux.org/)
-[![ubuntu](https://img.shields.io/badge/Ubuntu-2a001c?style=flat-square&logo=ubuntu)](https://ubuntu.com/)
 [![openwrt](https://img.shields.io/badge/OpenWrt-000000?style=flat-square&logo=openwrt)](https://openwrt.org/)
+[![nixos](https://img.shields.io/badge/NixOS-000000?style=flat-square&logo=nixos)](https://nixos.org/)
 
 [![python](https://img.shields.io/badge/Python-ffd43b?style=flat-square&logo=python)](https://www.python.org/)
 [![c](https://img.shields.io/badge/C-5c6bc0?style=flat-square&logo=c)](https://en.wikipedia.org/wiki/C_(programming_language))
@@ -84,25 +63,31 @@ About [Windows](https://github.com/userElaina/About-Windows)
 [![go](https://img.shields.io/badge/Go-29beb0?style=flat-square&logo=go)](https://go.dev/)
 [![java](https://img.shields.io/badge/Java-f89820?style=flat-square&logo=openjdk)](https://www.java.com/)
 [![lua](https://img.shields.io/badge/Lua-2c2d72?style=flat-square&logo=lua)](https://www.lua.org/)
+[![javascript](https://img.shields.io/badge/JavaScript-fc7c00?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
+[![haskell](https://img.shields.io/badge/Haskell-5c2d72?style=flat-square&logo=haskell)](https://www.haskell.org/)
 [![rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)](https://www.rust-lang.org/)
 [![latex](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex)](https://www.latex-project.org/)
 [![markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown)](https://en.wikipedia.org/wiki/Markdown)
 
-[![vmware](https://img.shields.io/badge/VMware-005c8a?style=flat-square&logo=vmware)](https://www.vmware.com/)
+<!-- [![vmware](https://img.shields.io/badge/VMware-005c8a?style=flat-square&logo=vmware)](https://www.vmware.com/)
 [![virtualbox](https://img.shields.io/badge/VirtualBox-183a61?style=flat-square&logo=virtualbox)](https://www.virtualbox.org/)
-[![qemu](https://img.shields.io/badge/QEMU-000000?style=flat-square&logo=qemu)](https://www.qemu.org/)
-[![vsc](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=vim)](https://neovim.io/)
+[![qemu](https://img.shields.io/badge/QEMU-000000?style=flat-square&logo=qemu)](https://www.qemu.org/) -->
+<!-- [![vsc](https://img.shields.io/badge/VS%20Code-007acc?style=flat-square&logo=vim)](https://neovim.io/)
 [![vs](https://img.shields.io/badge/VS-5c2d91?style=flat-square&logo=intellijidea)](https://www.jetbrains.com/idea/)
-[![pycharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/)
-[![unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity)](https://unity.com/)
-[![ffmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg)](https://ffmpeg.org/)
+[![pycharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/) -->
 <!-- [![](https://img.shields.io/badge/OBS-302e31?style=flat-square&logo=obs-studio)](https://obsproject.com/) -->
 
+<!-- [![git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git)](https://git-scm.com/) -->
+[![ffmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg)](https://ffmpeg.org/)
 [![opencv](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat-square&logo=opencv)](https://opencv.org/)
-[![anaconda](https://img.shields.io/badge/Anaconda-000000?style=flat-square&logo=anaconda)](https://www.anaconda.com/)
-[![jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter)](https://jupyter.org/)
+[![vim](https://img.shields.io/badge/Vim-007f00?style=flat-square&logo=vim)](https://www.vim.org/)
+[![nginx](https://img.shields.io/badge/Nginx-009639?style=flat-square&logo=nginx)](https://nginx.org/)
+[![unity](https://img.shields.io/badge/Unity-000000?style=flat-square&logo=unity)](https://unity.com/)
 [![pytorch](https://img.shields.io/badge/PyTorch-000000?style=flat-square&logo=pytorch)](https://pytorch.org/)
 [![tensorflow](https://img.shields.io/badge/TensorFlow-000000?style=flat-square&logo=tensorflow)](https://www.tensorflow.org/)
+[![jupyter](https://img.shields.io/badge/Jupyter-000000?style=flat-square&logo=jupyter)](https://jupyter.org/)
+[![anaconda](https://img.shields.io/badge/Anaconda-000000?style=flat-square&logo=anaconda)](https://www.anaconda.com/)
+[![ollama](https://img.shields.io/badge/Ollama-000000?style=flat-square&logo=ollama)](https://ollama.com/)
 
 ## To reach me
 
