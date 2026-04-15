@@ -11,6 +11,12 @@
 Map of [Stick Fight: The Game](https://store.steampowered.com/app/674940/)
 [![qwq](https://img.shields.io/steam/downloads/2136043969?style=flat-square&logo=steam&label=QwQ)](https://steamcommunity.com/sharedfiles/filedetails/?id=2136043969) -->
 
+## Publications
+
+[Accelerated Vertical Federated Adversarial Learning through Decoupling Layer-Wise Dependencies](https://workelaina.github.io/DecVFAL/)
+
+[Three Forward, One Backward: Memory-Efficient Full-Rank Fine-Tuning of Large Models via Extra Forward Passes](https://workelaina.github.io/LMAO/)
+
 ## Repositories
 
 *长春停水停电停暖气学院*
