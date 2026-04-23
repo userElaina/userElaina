@@ -72,8 +72,10 @@ Map of [Stick Fight: The Game](https://store.steampowered.com/app/674940/)
 [![javascript](https://img.shields.io/badge/JavaScript-fc7c00?style=flat-square&logo=javascript)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
 [![haskell](https://img.shields.io/badge/Haskell-5c2d72?style=flat-square&logo=haskell)](https://www.haskell.org/)
 [![rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust)](https://www.rust-lang.org/)
-[![latex](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex)](https://www.latex-project.org/)
 [![markdown](https://img.shields.io/badge/Markdown-000000?style=flat-square&logo=markdown)](https://en.wikipedia.org/wiki/Markdown)
+[![latex](https://img.shields.io/badge/LaTeX-008080?style=flat-square&logo=latex)](https://www.latex-project.org/)
+[![typst](https://img.shields.io/badge/Typst-000000?style=flat-square&logo=typst)](https://typst.app/)
+<!-- [![html](https://img.shields.io/badge/HTML-000000?style=flat-square&logo=html5)](https://developer.mozilla.org/en-US/docs/Web/HTML) -->
 
 <!-- [![vmware](https://img.shields.io/badge/VMware-005c8a?style=flat-square&logo=vmware)](https://www.vmware.com/)
 [![virtualbox](https://img.shields.io/badge/VirtualBox-183a61?style=flat-square&logo=virtualbox)](https://www.virtualbox.org/)
@@ -83,7 +85,7 @@ Map of [Stick Fight: The Game](https://store.steampowered.com/app/674940/)
 [![pycharm](https://img.shields.io/badge/PyCharm-000000?style=flat-square&logo=pycharm)](https://www.jetbrains.com/pycharm/) -->
 <!-- [![](https://img.shields.io/badge/OBS-302e31?style=flat-square&logo=obs-studio)](https://obsproject.com/) -->
 
-<!-- [![git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git)](https://git-scm.com/) -->
+[![git](https://img.shields.io/badge/Git-000000?style=flat-square&logo=git)](https://git-scm.com/)
 [![ffmpeg](https://img.shields.io/badge/FFmpeg-007808?style=flat-square&logo=ffmpeg)](https://ffmpeg.org/)
 [![opencv](https://img.shields.io/badge/OpenCV-5c3ee8?style=flat-square&logo=opencv)](https://opencv.org/)
 [![vim](https://img.shields.io/badge/Vim-007f00?style=flat-square&logo=vim)](https://www.vim.org/)
