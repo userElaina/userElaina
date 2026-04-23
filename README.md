@@ -32,11 +32,11 @@ Map of [Stick Fight: The Game](https://store.steampowered.com/app/674940/)
 
 [提取色卡/提取线稿/勾线/调色/低级水印筛查](https://github.com/userElaina/color-card)
 
-[Elysia *预言的勇者* MAD](https://github.com/userElaina/the-brave-Elysia-of-prophecy)
-[![BV1qTmrYKEUP](https://img.shields.io/badge/Bilibili-w%2F%20Subtitles-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1qTmrYKEUP)
-[![BV1ZTmrYKE3W](https://img.shields.io/badge/Bilibili-w%2Fo%20Subtitles-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1ZTmrYKE3W)
-[![EkEbB38t2Cg](https://img.shields.io/badge/YouTube-w%2F%20Subtitles-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=EkEbB38t2Cg)
-[![tHiDTm-ReIQ](https://img.shields.io/badge/YouTube-w%2Fo%20Subtitles-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=tHiDTm-ReIQ)
+[Elysia~♪ *预言的勇者* MAD](https://github.com/userElaina/the-brave-Elysia-of-prophecy)
+[![BV1qTmrYKEUP](https://img.shields.io/badge/Bili-Subtitled-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1qTmrYKEUP)
+[![BV1ZTmrYKE3W](https://img.shields.io/badge/Bili-Unsubtitled-00a1d6?style=flat-square&logo=bilibili)](https://www.bilibili.com/video/BV1ZTmrYKE3W)
+[![EkEbB38t2Cg](https://img.shields.io/badge/YTb-Subtitled-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=EkEbB38t2Cg)
+[![tHiDTm-ReIQ](https://img.shields.io/badge/YTb-Unsubtitled-ff0000?style=flat-square&logo=youtube)](https://www.youtube.com/watch?v=tHiDTm-ReIQ)
 
 ### Python modules
 
@@ -49,7 +49,7 @@ Map of [Stick Fight: The Game](https://store.steampowered.com/app/674940/)
 [Quickly find the nearest **xterm 256** color index of an **RGB**.](https://github.com/userElaina/python-x256-offline)
 [![x256offline](https://img.shields.io/pypi/v/x256offline.svg?style=flat-square&logo=pypi&label=x256offline)](https://pypi.org/project/x256offline)
 
-[A dependency-free, code-less `socket`-based solution for resolving environment incompatibilities.](https://github.com/userElaina/inincompatibility)
+[A zero-dependency, code-free solution for resolving environment incompatibilities.](https://github.com/userElaina/inincompatibility)
 [![inincompatibility](https://img.shields.io/pypi/v/inincompatibility.svg?style=flat-square&logo=pypi&label=inincompatibility)](https://pypi.org/project/inincompatibility)
 
 ## Platform and Tools
