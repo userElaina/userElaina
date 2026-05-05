@@ -17,6 +17,8 @@ Map of [Stick Fight: The Game](https://store.steampowered.com/app/674940/)
 
 [Three Forward, One Backward: Memory-Efficient Full-Rank Fine-Tuning of Large Models via Extra Forward Passes](https://workelaina.github.io/LMAO/)
 
+[CE-VFAL: A Novel Framework for Communication-Efficient Vertical Federated Adversarial Learning](https://workelaina.github.io/CE-VFAL/)
+
 ## Repositories
 
 *长春停水停电停暖气学院*
