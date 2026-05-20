@@ -105,7 +105,7 @@ Telegram: [@userElaina](https://t.me/userelaina)
 
 Telegram Channel: [@cyberElaina](https://t.me/cyberElaina)
 
-Email: [userElaina@pm.me](mailto:userElaina@pm.me) [userElaina@gmail.com](mailto:userElaina@gmail.com)
+Email: [userElaina{at}pm.me](mailto:userElaina@pm.me) [userElaina{at}gmail.com](mailto:userElaina@gmail.com)
 
 Steam Friend Code: [1023110402](https://steamcommunity.com/id/userElaina)
 
