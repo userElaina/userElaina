@@ -13,11 +13,11 @@ Map of [Stick Fight: The Game](https://store.steampowered.com/app/674940/)
 
 ## Publications
 
-[Accelerated Vertical Federated Adversarial Learning through Decoupling Layer-Wise Dependencies](https://workelaina.github.io/DecVFAL/)
+[[NeurIPS 2025] Accelerated Vertical Federated Adversarial Learning through Decoupling Layer-Wise Dependencies](https://workelaina.github.io/DecVFAL/)
 
-[Three Forward, One Backward: Memory-Efficient Full-Rank Fine-Tuning of Large Models via Extra Forward Passes](https://workelaina.github.io/LMAO/)
+[[ICLR 2026] Three Forward, One Backward: Memory-Efficient Full-Rank Fine-Tuning of Large Models via Extra Forward Passes](https://workelaina.github.io/LMAO/)
 
-[CE-VFAL: A Novel Framework for Communication-Efficient Vertical Federated Adversarial Learning](https://workelaina.github.io/CE-VFAL/)
+[[IJCAI 2026] CE-VFAL: A Novel Framework for Communication-Efficient Vertical Federated Adversarial Learning](https://workelaina.github.io/CE-VFAL/)
 
 ## Repositories
 
