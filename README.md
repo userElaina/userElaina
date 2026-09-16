@@ -1,9 +1,9 @@
 # Hi ~ I'm userElaina
 
-- 🌸 Hobby: Music and ACGN.
+- 🌸 Hobby: Music and AC[G](https://steamcommunity.com/id/userElaina)N.
 - 🎵 My Code: [Life](https://github.com/userElaina) [Work](https://github.com/workelaina) [Balance](https://git.mil/)
+- 🧪 Research on LLMs.
 - 💬 To [ask](https://github.com/userelaina/userelaina/issues) me about anything.
-- 🧪 My major is CS and AI.
 - 📫 To [reach](#to-reach-me) me.
 
 <!-- ## Content
@@ -11,7 +11,11 @@
 Map of [Stick Fight: The Game](https://store.steampowered.com/app/674940/)
 [![qwq](https://img.shields.io/steam/downloads/2136043969?style=flat-square&logo=steam&label=QwQ)](https://steamcommunity.com/sharedfiles/filedetails/?id=2136043969) -->
 
-## Publications
+## Works
+
+[XHToken/Spark-X2.5](https://github.com/XHToken/Spark-X2.5)
+[![hf](https://img.shields.io/badge/XHToken-Spark--X2.5-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/collections/XHToken/spark-x25)
+[![ollama](https://img.shields.io/badge/SparkLLM-Spark--X2.5-000000?style=flat-square&logo=ollama)](https://ollama.com/SparkLLM)
 
 [[NeurIPS 2025] Accelerated Vertical Federated Adversarial Learning through Decoupling Layer-Wise Dependencies](https://workelaina.github.io/DecVFAL/)
 
