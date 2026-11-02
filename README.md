@@ -17,6 +17,10 @@ Map of [Stick Fight: The Game](https://store.steampowered.com/app/674940/)
 [![hf](https://img.shields.io/badge/XHToken-Spark--X2.5-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/collections/XHToken/spark-x25)
 [![ollama](https://img.shields.io/badge/SparkLLM-Spark--X2.5-000000?style=flat-square&logo=ollama)](https://ollama.com/SparkLLM)
 
+[XHToken/Spark-X2.6](https://github.com/XHToken/Spark-X2.6)
+[![hf](https://img.shields.io/badge/XHToken-Spark--X2.6-FFD21E?style=flat-square&logo=huggingface)](https://huggingface.co/collections/XHToken/spark-x26)
+[![ollama](https://img.shields.io/badge/SparkLLM-Spark--X2.6-000000?style=flat-square&logo=ollama)](https://ollama.com/SparkLLM)
+
 [[NeurIPS 2025] Accelerated Vertical Federated Adversarial Learning through Decoupling Layer-Wise Dependencies](https://workelaina.github.io/DecVFAL/)
 
 [[ICLR 2026] Three Forward, One Backward: Memory-Efficient Full-Rank Fine-Tuning of Large Models via Extra Forward Passes](https://workelaina.github.io/LMAO/)
